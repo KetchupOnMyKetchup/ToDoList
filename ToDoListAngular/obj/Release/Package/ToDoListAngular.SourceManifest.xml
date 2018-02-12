@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\04 Texas Mutual\Day 2 - Azure\03 POC\src\ToDoListAngular\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\04 Texas Mutual\Day 2 - Azure\03 POC\src\ToDoListAngular\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\crtenn\Google Drive\Microsoft\2017-2018 Q1 Work\04 Texas Mutual\Day 2 - Azure\03 POC\src\ToDoListAngular\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
