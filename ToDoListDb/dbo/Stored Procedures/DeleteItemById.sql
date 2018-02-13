@@ -1,0 +1,9 @@
+CREATE PROCEDURE [dbo].[DeleteItemById]
+	@id INT
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+	DELETE FROM [dbo].[Items]
+	WHERE ID = @id
+END

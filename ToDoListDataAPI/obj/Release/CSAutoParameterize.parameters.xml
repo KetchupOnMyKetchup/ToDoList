@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="todoItems-Web.config Connection String" description="todoItems Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:cattodolistdb.database.windows.net,1433;Initial Catalog=todolistdb;Persist Security Info=False;User ID=super;Password=P@ssw0rd!;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\crtenn\\Google\ Drive\\Microsoft\\2017-2018\ Q1\ Work\\04\ Texas\ Mutual\\Day\ 1\ -\ Azure\\03\ POC\\src\\ToDoListDataAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='todoItems']/@connectionString" />
-  </parameter>
-</parameters>
