@@ -19,6 +19,6 @@ _Note: Parts 02-03 are optional and purely informational if you would like to le
 * **06 VSTS Continuous Integration:** Setup a CI Process in VSTS 
 * **07 VSTS Continuous Deployment:** Setup a CD Process in VSTS (automated deploy to Azure)
 
-[Click here to go to the Wiki](https://github.com/catenn/ToDoList/wiki) where all the instructions have been placed for the tutorial. 
+**[Click here to go to the Wiki](https://github.com/catenn/ToDoList/wiki)**, where all the instructions have been placed for the tutorial. 
 
 
