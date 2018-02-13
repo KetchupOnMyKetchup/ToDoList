@@ -11,7 +11,7 @@ _Note: Parts 02-03 are optional and purely informational if you would like to le
 
 # Tutorial Sections: 
 * **[00 Prerequisites, Timing, and Cost:](https://github.com/catenn/ToDoList/wiki/00.-Prerequisites,-Timing,-and-Cost)** I will explain all of the software and accounts required to complete this tutorial. 
-* **01 Local Setup:** Locally connect a front-end website to an API, and connect the API to a SQL Server. I will explain enough for you to get a local database setup and get the app up and running on your local machine. 
+* **[01 Local Setup:](https://github.com/catenn/ToDoList/wiki/01.-Local-Setup)** Locally connect a front-end website to an API, and connect the API to a SQL Server. I will explain enough for you to get a local database setup and get the app up and running on your local machine. 
 * **02 Swagger (optional):** Learn how to use Swagger for API management
 * **03 Dapper (optional):** Learn how to use Dapper micro-ORM to access to database
 * **04 Azure Deployment (manual):** Deploy the front-end, API, and SQL database to Azure manually
