@@ -128,12 +128,11 @@ namespace ToDoListDataAPI.Repo
                     CommandType = CommandType.StoredProcedure
                 })
                 {
-                    command.Parameters.Add(new SqlParameter("@id", toDoItem.ID));
                     command.Parameters.Add(new SqlParameter("@description", toDoItem.Description));
 
                     conn.Open();
 
-                    command.ExecuteNonQuery();
+                    var id = command.ExecuteScalar();
                 }
             }
 
