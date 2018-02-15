@@ -16,11 +16,11 @@ This is a simple proof of concept to display an Azure App Service website commun
 
 # Tutorial Partial Paths:
 The tutorial can be completed in full, or partially. Here are the partial paths: 
-* If you are uninterested in Azure or are a junior developing learning to code to simply go through Parts 01-03 to understand how applications are setup.  
-* If you are seeking to learn Azure and the CI/CD process (and you already know Swagger and Dapper), you can do Parts 01 and 04-07.  
-* If you are seeking to learn Azure and the CI/CD process, and you already know how to deploy to Azure manually and are only interested in the CI/CD process (and you already know Swagger and Dapper), you can do Parts 01 and 06-07.  
+* If you are uninterested in Azure or are a junior developing learning to code to simply go through **Parts 01-03** to understand how applications are setup with a front end to an API layer to a SQL Database.  
+* If you are seeking to learn Azure and the CI/CD process (and you already know Swagger and Dapper), you can do **Parts 01 and 04-07** (skip 02-03).  
+* If you are seeking to learn Azure and the CI/CD process, and you already know how to deploy to Azure manually and are only interested in the CI/CD process (and you already know Swagger and Dapper), you can do **Parts 01 and 06-07**.  
 
-_Note: Parts 02-03 are optional and purely informational if you would like to learn how to use Swagger or Dapper. Swagger is a useful tool for API management and testing by directly accessing the API endpoints. Dapper is a micro-ORM that is very lightweight and makes accessing the database faster with much less code._
+_Note: Parts 02-03 are optional and purely informational if you would like to learn how to use Swagger or Dapper. Swagger is a useful tool for API management and testing by directly accessing the API endpoints. Dapper is a micro-ORM that is very lightweight and makes accessing the database faster with much less code. No code changes are made during these steps, they are informational and explanatory only._
 
 # Wiki Tutorial Link
 **[Click here to go to the Wiki](https://github.com/catenn/ToDoList/wiki)**, where all the instructions have been placed for the tutorial. 
