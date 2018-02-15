@@ -10,7 +10,7 @@ This is a simple proof of concept to display an Azure App Service website commun
 * **[02 Swagger (optional):](https://github.com/catenn/ToDoList/wiki/02.-Swagger)** Learn how to use Swagger for API management
 * **03 Dapper (optional):** Learn how to use Dapper micro-ORM to access to database
 * **[04 Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04.-Azure-Deployment-(manual))** Deploy the front-end, API, and SQL database to Azure manually
-* **05 Adding project to VSTS with Git:** I will show you how to use Git to add your project to VSTS
+* **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS
 * **06 VSTS Continuous Integration:** Setup a CI Process in VSTS 
 * **07 VSTS Continuous Deployment:** Setup a CD Process in VSTS (automated deploy to Azure)
 
