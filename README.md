@@ -1,6 +1,6 @@
 # Introduction and Welcome
 
-## THIS PROJECT IS UNDER CONSTRUCTION AS OF FEBRUARY 2018, TARGETED TO BE COMPLETE NEAR THE END OF THE MONTH
+## THIS PROJECT IS UNDER CONSTRUCTION AS OF FEBRUARY 2018, TARGETED TO BE COMPLETE EARLY MARCH 2018
 
 This is a simple proof of concept to display an Azure App Service website communicating with an API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. The project was originally forked from a Microsoft documentation page that has now been depreciated. 
 
