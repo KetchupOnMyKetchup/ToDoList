@@ -8,11 +8,11 @@ The walkthrough is an 8-part series that will start you with a Visual Studio pro
 # Tutorial Sections: 
 * **[00 Prerequisites, Timing, and Cost:](https://github.com/catenn/ToDoList/wiki/00.-Prerequisites,-Timing,-and-Cost)** I will explain all of the software and accounts required to complete this tutorial. 
 * **[01 Local Setup:](https://github.com/catenn/ToDoList/wiki/01.-Local-Setup)** Locally connect a front-end website to an API, and connect the API to a SQL Server. I will explain enough for you to get a local database setup and get the app up and running on your local machine. 
-* **[02 Swagger (optional):](https://github.com/catenn/ToDoList/wiki/02.-Swagger)** Learn how to use Swagger for API management
-* **[03 Dapper (optional):](https://github.com/catenn/ToDoList/wiki/03.-Dapper)** Learn how to use Dapper micro-ORM to access to database
-* **[04a Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04a.-Azure-Deployment-(Azure-SQL))** Deploy the SQL database to Azure manually
-* **[04b Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04b.-Azure-Deployment-(App-Services:-Web-App-&-API-App))** Deploy the front-end Web App and API App to Azure manually
-* **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS
-* **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS 
-* **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure)
+* **[02 Swagger (optional):](https://github.com/catenn/ToDoList/wiki/02.-Swagger)** Learn how to use Swagger for API management.
+* **[03 Dapper (optional):](https://github.com/catenn/ToDoList/wiki/03.-Dapper)** Learn how to use Dapper micro-ORM to access to database.
+* **[04a Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04a.-Azure-Deployment-(Azure-SQL))** Deploy the SQL database to Azure manually.
+* **[04b Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04b.-Azure-Deployment-(App-Services:-Web-App-&-API-App))** Deploy the front-end Web App and API App to Azure manually.
+* **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS.
+* **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS.
+* **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure).
 * **[08 Cleanup:](https://github.com/catenn/ToDoList/wiki/08.-Cleanup)** Cleanup and delete the Azure resources created in this tutorial. 
