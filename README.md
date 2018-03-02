@@ -8,16 +8,18 @@ The application will be built and working when you download it.  The tutorial wi
 * **[01 Local Setup:](https://github.com/catenn/ToDoList/wiki/01.-Local-Setup)** Locally connect a front-end website to an API, and connect the API to a SQL Server. I will explain enough for you to get a local database setup and get the app up and running on your local machine. 
 * **[02 Swagger (optional):](https://github.com/catenn/ToDoList/wiki/02.-Swagger)** Learn how to use Swagger for API management
 * **[03 Dapper (optional):](https://github.com/catenn/ToDoList/wiki/03.-Dapper)** Learn how to use Dapper micro-ORM to access to database
-* **[04 Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04.-Azure-Deployment-(manual))** Deploy the front-end, API, and SQL database to Azure manually
+* **[04a Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04a.-Azure-Deployment-(Azure-SQL))** Deploy the SQL database to Azure manually
+* **[04b Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04b.-Azure-Deployment-(App-Services:-Web-App-&-API-App))** Deploy the front-end Web App and API App to Azure manually
 * **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS
 * **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS 
 * **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure)
+* **[08 Cleanup:](https://github.com/catenn/ToDoList/wiki/08.-Cleanup))** Cleanup and delete the Azure resources created in this tutorial. 
 
 # Tutorial Partial Paths:
 The tutorial can be completed in full, or partially. Here are the partial paths: 
 * If you are uninterested in Azure or are a junior developing learning to code to simply go through **Parts 01-03** to understand how applications are setup with a front end to an API layer to a SQL Database.  
 * If you are seeking to learn Azure and the CI/CD process (and you already know Swagger and Dapper), you can do **Parts 01 and 04-07** (skip 02-03).  
-* If you are seeking to learn Azure and the CI/CD process, and you already know how to deploy to Azure manually and are only interested in the CI/CD process (and you already know Swagger and Dapper), you can do **Parts 01 and 06-07**.  
+* If you are seeking to learn Azure and the CI/CD process, and you already know how to deploy to Azure manually and are only interested in the CI/CD process (and you already know Swagger and Dapper), you can do **Parts 01, 04a, [create empty web app/api resources](https://github.com/catenn/ToDoList/wiki/Reference:-Deploying-resources-to-Azure-(App-Services)), and 06-07**.  
 
 _Note: Parts 02-03 are optional and purely informational if you would like to learn how to use Swagger or Dapper. Swagger is a useful tool for API management and testing by directly accessing the API endpoints. Dapper is a micro-ORM that is very lightweight and makes accessing the database faster with much less code. No code changes are made during these steps, they are informational and explanatory only._
 
