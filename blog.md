@@ -1,10 +1,9 @@
 # End-to-end from Code Project, to VSTS CI/CD, to Azure
-This is a simple proof of concept to display an Azure App Service website communicating with an API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. The full tutorial is located here: https://github.com/catenn/ToDoList
+I have created a simple proof of concept to display an Azure App Service website communicating with an Azure API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. The full tutorial is located here: https://github.com/catenn/ToDoList
 
 ![alt text](https://github.com/catenn/ToDoList/blob/master/Images/todolist-diagram.png)
 
-The walkthrough is an 8-part series that will start you with a Visual Studio project to download that is fully functional.  You will learn how to set up the project on your local machine and test it out.  Along the way, I will go through how to use Swagger for your APIs and Dapper for the back-end micro-ORM to communicate with the database.  We will use Git to push code into Visual Studio Team Services (VSTS).  Then we will use VSTS to complete a Build process (Continuous Integration) which will create an artifact that can be then pushed to a Release process (Continuous Delivery) which will deploy it to Azure.  On average, it should take you 2-4 hours to complete the entire tutorial.  All of it can be done for free with free software and subscriptions, all details are in the tutorial itself! 
-
+The walkthrough is an 8-part series that will start you with a Visual Studio project to download that is fully functional.  You will learn how to set up the project on your local machine and test it out.  Along the way, I will go through how to use Swagger for your APIs and Dapper for the back-end micro-ORM to communicate with the database.  We will use Git to push code into Visual Studio Team Services (VSTS).  Then we will use VSTS to complete a Build process (Continuous Integration) which will create an artifact that can be then pushed to a Release process (Continuous Delivery) which will deploy it to Azure.  On average, it should take you 2-4 hours to complete the entire tutorial.  All of it can be done for free with free software and subscriptions, all details are in the tutorial itself! Please feel free to click on the link above to go to the main project page for the project, or click below to get started on the tutorial. 
 
 # Tutorial Sections: 
 * **[00 Prerequisites, Timing, and Cost:](https://github.com/catenn/ToDoList/wiki/00.-Prerequisites,-Timing,-and-Cost)** I will explain all of the software and accounts required to complete this tutorial. 
@@ -17,4 +16,3 @@ The walkthrough is an 8-part series that will start you with a Visual Studio pro
 * **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS 
 * **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure)
 * **[08 Cleanup:](https://github.com/catenn/ToDoList/wiki/08.-Cleanup)** Cleanup and delete the Azure resources created in this tutorial. 
-
