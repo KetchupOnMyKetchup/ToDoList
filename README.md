@@ -2,7 +2,9 @@
 
 ## THIS PROJECT IS UNDER CONSTRUCTION AS OF FEBRUARY 2018, TARGETED TO BE COMPLETE NEAR THE END OF THE MONTH
 
-This is a simple proof of concept to display an Azure App Service website communicating with an API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. 
+This is a simple proof of concept to display an Azure App Service website communicating with an API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. The project was originally forked from a Microsoft documentation page that has now been depreciated. 
+
+The application will be built and working when you download it.  The tutorial will not teach you how to code, but how to set it up and deploy it.  You are welcome to use it as a base for your own apps, for learning purposes, or anything you like. If you want to learn how to build the APIs from scratch, please go [here](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api).
 
 # Tutorial Sections: 
 * **[00 Prerequisites, Timing, and Cost:](https://github.com/catenn/ToDoList/wiki/00.-Prerequisites,-Timing,-and-Cost)** I will explain all of the software and accounts required to complete this tutorial. 
