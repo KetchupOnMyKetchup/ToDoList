@@ -1,7 +1,4 @@
 # Introduction and Welcome
-
-## THIS PROJECT IS UNDER CONSTRUCTION AS OF FEBRUARY 2018, TARGETED TO BE COMPLETE EARLY MARCH 2018
-
 This is a simple proof of concept to display an Azure App Service website communicating with an API project, which communicates to an Azure SQL back-end. The app is a To-Do application based on Microsoft's To-Do List app, but adapted for Azure deploy and to Visual Studio 2017. The project's technology stack is C#, Angular JS, and SQL. The project was originally forked from a Microsoft documentation page that has now been depreciated. 
 
 The application will be built and working when you download it.  The tutorial will not teach you how to code, but how to set it up and deploy it.  You are welcome to use it as a base for your own apps, for learning purposes, or anything you like. If you want to learn how to build the APIs from scratch, please go [here](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api).
@@ -13,8 +10,8 @@ The application will be built and working when you download it.  The tutorial wi
 * **[03 Dapper (optional):](https://github.com/catenn/ToDoList/wiki/03.-Dapper)** Learn how to use Dapper micro-ORM to access to database
 * **[04 Azure Deployment (manual):](https://github.com/catenn/ToDoList/wiki/04.-Azure-Deployment-(manual))** Deploy the front-end, API, and SQL database to Azure manually
 * **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS
-* **06 VSTS Continuous Integration:** Setup a CI Process in VSTS 
-* **07 VSTS Continuous Deployment:** Setup a CD Process in VSTS (automated deploy to Azure)
+* **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS 
+* **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure)
 
 # Tutorial Partial Paths:
 The tutorial can be completed in full, or partially. Here are the partial paths: 
@@ -26,5 +23,3 @@ _Note: Parts 02-03 are optional and purely informational if you would like to le
 
 # Wiki Tutorial Link
 **[Click here to go to the Wiki](https://github.com/catenn/ToDoList/wiki)**, where all the instructions have been placed for the tutorial. 
-
-
