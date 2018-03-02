@@ -13,7 +13,7 @@ The application will be built and working when you download it.  The tutorial wi
 * **[05 Adding project to VSTS with Git:](https://github.com/catenn/ToDoList/wiki/05.-Adding-project-to-VSTS-with-Git)** I will show you how create a free VSTS account and how to use Git to add your project to VSTS
 * **[06 VSTS Continuous Integration:](https://github.com/catenn/ToDoList/wiki/06.-VSTS-Continuous-Integration-(Build-Definition))** Setup a CI Process in VSTS 
 * **[07 VSTS Continuous Deployment:](https://github.com/catenn/ToDoList/wiki/07.-VSTS-Continuous-Deployment-(Release-Definitions))** Setup a CD Process in VSTS (automated deploy to Azure)
-* **[08 Cleanup:](https://github.com/catenn/ToDoList/wiki/08.-Cleanup))** Cleanup and delete the Azure resources created in this tutorial. 
+* **[08 Cleanup:](https://github.com/catenn/ToDoList/wiki/08.-Cleanup)** Cleanup and delete the Azure resources created in this tutorial. 
 
 # Tutorial Partial Paths:
 The tutorial can be completed in full, or partially. Here are the partial paths: 
