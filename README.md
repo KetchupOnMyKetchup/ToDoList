@@ -26,4 +26,4 @@ The tutorial can be completed in full, or partially. Here are the partial paths:
 _Note: Parts 02-03 are optional and purely informational if you would like to learn how to use Swagger or Dapper. Swagger is a useful tool for API management and testing by directly accessing the API endpoints. Dapper is a micro-ORM that is very lightweight and makes accessing the database faster with much less code. No code changes are made during these steps, they are informational and explanatory only._
 
 
-_Please contact me at catenn@gmail.com with any issues and I will do my best to keep updating this tutorial._
+_Please contact me at catenn@gmail.com with any issues and I will do my best to keep updating this tutorial. If this helped you at all and you enjoyed it, please star the repo! Would really appreciate it =)_
